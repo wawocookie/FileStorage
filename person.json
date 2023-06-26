@@ -1,0 +1,15 @@
+{
+    "firstname":"LYNN",
+    "gender":false,
+    "height":160,
+    "email":"wawocookie@gmail.com",
+    "city":{
+        "通訊地址":"桃園",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"039999999",
+        "行動電話":"0988888888"
+    },
+    "cars":["BMW"]
+}
